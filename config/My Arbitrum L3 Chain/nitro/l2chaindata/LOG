@@ -1,0 +1,33 @@
+=============== Apr 7, 2024 (UTC) ===============
+02:20:45.191880 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:20:45.198030 db@open opening
+02:20:45.207116 version@stat F·[] S·0B[] Sc·[]
+02:20:45.209374 db@janitor F·2 G·0
+02:20:45.209404 db@open done T·11.348408ms
+02:41:28.167542 db@close closing
+02:41:28.167623 db@close done T·80.026µs
+=============== Apr 7, 2024 (UTC) ===============
+02:41:30.753900 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:41:30.754269 version@stat F·[] S·0B[] Sc·[]
+02:41:30.754320 db@open opening
+02:41:30.754385 journal@recovery F·1
+02:41:30.779704 journal@recovery recovering @1
+02:41:30.787007 memdb@flush created L0@2 N·1113 S·133KiB "\x001x..\x8d1\x14,v74":"\xff\x90\x13..5H\x9c,v633"
+02:41:30.804660 version@stat F·[1] S·133KiB[133KiB] Sc·[0.25]
+02:41:30.818900 db@janitor F·3 G·0
+02:41:30.818937 db@open done T·64.606053ms
+02:41:56.169878 db@close closing
+02:41:56.169983 db@close done T·103.627µs
+=============== Apr 7, 2024 (UTC) ===============
+02:42:10.572065 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:42:10.572287 version@stat F·[1] S·133KiB[133KiB] Sc·[0.25]
+02:42:10.572325 db@open opening
+02:42:10.572427 journal@recovery F·1
+02:42:10.581385 journal@recovery recovering @3
+02:42:10.588423 memdb@flush created L0@5 N·4 S·20KiB "Sna..tor,v1116":"unc..own,v1115"
+02:42:10.598350 version@stat F·[2] S·154KiB[154KiB] Sc·[0.50]
+02:42:10.606253 db@janitor F·4 G·0
+02:42:10.606279 db@open done T·33.944343ms
+=============== Apr 9, 2024 (UTC) ===============
+13:47:46.995258 db@close closing
+13:47:46.995754 db@close done T·494.183µs
